@@ -1,4 +1,4 @@
-# Crypto-Price-Prediction🔮
+# Overview
 This repository contains an example Python script for cryptocurrency price prediction using the Random Forest Regressor machine learning model. The code fetches historical cryptocurrency data from the cryptocompare API, preprocesses the data, trains a Random Forest Regressor model, and evaluates its performance using mean absolute error.
 
 # Instructions:
